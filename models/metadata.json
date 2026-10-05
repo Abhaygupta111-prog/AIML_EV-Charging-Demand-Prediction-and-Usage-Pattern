@@ -1,0 +1,16 @@
+{
+  "split_cutoff": "2022-07-30 19:09:00",
+  "high_demand_threshold": 14.2,
+  "class_balance": {
+    "0": 0.499776862341229,
+    "1": 0.500223137658771
+  },
+  "best_regression": "LightGBM",
+  "tree_regression": "LightGBM",
+  "best_classifier": "LightGBM",
+  "tree_classifier": "LightGBM",
+  "best_timeseries": "Naive (last value)",
+  "adf_p_value": 0.33989042927691054,
+  "stationary": false,
+  "use_duration_feature": false
+}

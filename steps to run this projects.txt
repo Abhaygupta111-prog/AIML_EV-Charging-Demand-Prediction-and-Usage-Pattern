@@ -1,0 +1,17 @@
+cd ev_charging_project
+
+python -m venv venv
+venv\Scripts\activate          # Windows
+source venv/bin/activate       # Mac/Linux
+
+pip install -r requirements.txt
+
+ren "data\raw\your file name.csv" charging_record.csv
+
+python -c "import pandas as pd; df=pd.read_csv('data/raw/charging_record.csv'); print(df.shape); print(df.dtypes)"
+
+pip install imbalanced-learn
+
+python train_all.py
+
+python -m streamlit run app.py

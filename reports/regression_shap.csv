@@ -1,0 +1,37 @@
+feature,mean_abs_shap
+num__charger_roll_mean_5,3.3584506608582325
+num__hour_cos,2.3406726703243512
+num__user_prior_sessions,1.5283822816243682
+cat__ChargerType_0,0.6067710168212742
+num__charger_session_idx,0.5708731676936856
+num__hours_since_last_charger_session,0.5518848702439153
+cat__ChargerCompany_0,0.3950984878603515
+num__hour,0.34573942923882345
+num__charger_prev_demand,0.32567856063341355
+cat__Location_apartment,0.2252940591340618
+num__week_of_year,0.2236762045324991
+cat__Location_hotel,0.22251680079216155
+num__dayofweek,0.18892223682567252
+cat__Location_camping,0.139335993891346
+num__hour_sin,0.13886084811854008
+cat__Location_market,0.12035681337102798
+cat__Location_public area,0.10756010760094759
+num__day,0.0850585368326546
+cat__Location_resort,0.08096440625408735
+cat__Location_company,0.07641702627010284
+num__month,0.06928016437020712
+cat__Location_public institution,0.05556232382130778
+cat__time_of_day_Morning,0.037060440889475375
+cat__time_of_day_Afternoon,0.03311538748631474
+cat__Location_public parking lot,0.030942172990031366
+cat__Location_restaurant,0.023311524205728146
+cat__Location_sightseeing,0.02144685657339034
+cat__time_of_day_Evening,0.011584700131573332
+cat__ChargerCompany_1,0.007786657089682341
+cat__Location_golf,0.007488638740183891
+cat__Location_accommodation,0.0034039022306135837
+cat__Location_bus garage,0.0019004517385308576
+num__is_weekend,0.0
+cat__ChargerType_1,0.0
+cat__time_of_day_Late Evening,0.0
+cat__time_of_day_Night,0.0

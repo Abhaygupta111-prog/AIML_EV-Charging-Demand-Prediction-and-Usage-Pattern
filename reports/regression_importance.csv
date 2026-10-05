@@ -1,0 +1,21 @@
+feature,importance
+num__user_prior_sessions,1269
+num__charger_roll_mean_5,1238
+num__charger_session_idx,1104
+num__hours_since_last_charger_session,1061
+num__charger_prev_demand,969
+num__week_of_year,542
+num__hour,503
+num__day,440
+num__hour_cos,432
+num__hour_sin,281
+num__dayofweek,253
+num__month,149
+cat__Location_apartment,142
+cat__ChargerType_0,132
+cat__Location_market,111
+cat__Location_public area,107
+cat__ChargerCompany_0,100
+cat__Location_resort,96
+cat__Location_camping,89
+cat__Location_company,73

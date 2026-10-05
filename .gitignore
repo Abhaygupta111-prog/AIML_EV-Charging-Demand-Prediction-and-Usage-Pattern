@@ -4,3 +4,4 @@ __pycache__/
 models/*.joblib
 data/raw/*.csv
 .ipynb_checkpoints/
+venv/
